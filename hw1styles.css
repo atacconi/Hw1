@@ -1,0 +1,40 @@
+<style media="screen">
+
+/* Body */
+
+  body {
+    max-width: 2000px;
+    line-height: 20em;
+      }
+
+/* Heading */
+
+    h1 {
+      line-height: 1;
+      font-weight: bold;
+      font-family: monospace;
+      color: #696969;
+        }
+
+    h2 {
+        line-height: 1;
+        color: #696969;
+        font-family: monospace;
+        }
+
+    h5 {
+        line-height: 1;
+        color: #696969;
+        font-size: 1em
+        font-weight: normal;
+        }
+
+/* Images */
+
+  img {
+      box-shadow: 4px 4px 4px #caccce;
+      margin-left: 5px;
+      margin-top: 5px;
+      }
+
+</style>
